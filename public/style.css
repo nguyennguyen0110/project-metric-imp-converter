@@ -1,5 +1,10 @@
+body {
+  color: white;
+  background: black;
+}
+
 code {
-    background-color: whitesmoke;
+  background-color: rgb(50, 50, 50);
 }
 
 section, header {
